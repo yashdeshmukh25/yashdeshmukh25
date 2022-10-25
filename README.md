@@ -1,11 +1,10 @@
-<p align="center"> 👋 Hi, I’m Yash Deshmukh </p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
-</div>
+👋 Hi, I’m Yash Deshmukh
 - 🙌🏻 I'm exploring different fiels as of now
 - 🌱 I’m currently learning Web Development and Product Management.
 - 👀 I’m interested in Social Entrepreneurship, Photography and Finance.
 - 📫 Visit https://yash-deshmukh.super.site/ to know more about me
+
+<img src="https://komarev.com/ghpvc/?username=yashdeshmukh25&style=flat-square&color=blue" alt=""/>
 
 <p align="center"> <a href="https://twitter.com/yashd_yd7" target="_blank"><img src="https://img.shields.io/twitter/follow/yashd_yd7?logo=twitter&style=for-the-badge" alt="poojaasanwal" /></a> </p>
 
