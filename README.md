@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Yash Deshmukh 
+<p align="center"> 👋 Hi, I’m Yash Deshmukh </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
 - 🙌🏻 I'm exploring different fiels as of now
 - 🌱 I’m currently learning Web Development and Product Management.
 - 👀 I’m interested in Social Entrepreneurship, Photography and Finance.
