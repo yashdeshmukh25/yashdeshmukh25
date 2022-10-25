@@ -1,4 +1,4 @@
-👋 Hi, I’m Yash Deshmukh
+- 👋 Hi, I’m Yash Deshmukh
 - 🙌🏻 I'm exploring different fiels as of now
 - 🌱 I’m currently learning Web Development and Product Management.
 - 👀 I’m interested in Social Entrepreneurship, Photography and Finance.
