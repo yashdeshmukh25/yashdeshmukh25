@@ -2,7 +2,7 @@
 - 🙌🏻 I'm exploring different fiels as of now
 - 🌱 I’m currently learning Web Development and Product Management.
 - 👀 I’m interested in Social Entrepreneurship, Photography and Finance.
-- 📫 Visit https://yash-deshmukh.super.site/ to know more about me
+- 📫 Visit https://yashdeshmukh.in to know more about me
 
 <img src="https://komarev.com/ghpvc/?username=yashdeshmukh25&style=flat-square&color=blue" alt=""/>
 
