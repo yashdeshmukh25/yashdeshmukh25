@@ -45,17 +45,17 @@ Exploring new fields and trying to upskill myself daily. Being active in communi
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="mailto:ydeshmukh7.yd@gmail.com">
-  <img height="50" src="https://github.com/yashdeshmukh25/yashdeshmukh25/assets/75061152/f12be886-570a-4a18-9aa3-295e030dd828"/>
+  <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75061152/260206935-f12be886-570a-4a18-9aa3-295e030dd828.png"/>
 </a>
   <br>
 <a href="https://www.instagram.com/theycallmeyd_">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://dsc.gg/reveried">
-  <img height="50" src="https://github.com/yashdeshmukh25/yashdeshmukh25/assets/75061152/5d5bc158-8591-40c8-b3db-9572f823b5ae"/>
+  <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75061152/260206858-5d5bc158-8591-40c8-b3db-9572f823b5ae.png"/>
 </a>
 <a href="https://open.spotify.com/user/rtii5rp5gb3cfjs6hc5xpupmg?si=29cb3d94c2dc47cf">
-  <img height="50" src="https://github.com/yashdeshmukh25/yashdeshmukh25/assets/75061152/206e38f7-06a4-4a11-81bf-11de0174cc14"/>
+  <img height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/75061152/260207476-206e38f7-06a4-4a11-81bf-11de0174cc14.png"/>
 </a>
 </p>
 
