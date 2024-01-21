@@ -13,19 +13,18 @@
 🏫 Final year Engineering Student at GCOE Nagpur
 
 👷🏻‍♂️Work: <br>
-<ul>
-  <li>Founders Office Intern at Social Capital Inc.</li>
-</ul>
+<p> # Currently Looking for Opportunities </p>
 Previously:
 <ul>
+  <li>Founders Office Intern at Social Capital Inc.</li>
   <li>Growth Manager at a Stealth Startup</li>
   <li>Events and Community Manager at BlueLearn</li>
   <li>Freelancing: Creating/Designing Discord Servers</li>
 </ul>
 
 📚 Currently learning about Product Management and Design. <br>
-
 🧬 Interests: New Technologies, Travel, Interior design, and Cinematography. <br>
+📚 Exploring the fields of Business, Startups, Sustainability and Growth <br>
 💸 Learning more about Finance and Investing <br>
 
 Exploring new fields and trying to upskill myself daily. Being active in communities helps me a lot with that.
